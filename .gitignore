@@ -23,6 +23,14 @@ summarize_sections.py
 test_engine.py
 test_gee.py
 
+# Sensitive & Token files
+.env
+*.env
+*token*
+*.key
+secrets/
+credentials.json
+
 # OS files
 .DS_Store
 Thumbs.db
