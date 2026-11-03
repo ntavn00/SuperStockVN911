@@ -1,0 +1,28 @@
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Browser & test artifacts
+.playwright-mcp/
+*.log
+
+# Scratch & temporary files
+gemini_deep_research_full.txt
+gemini_sections_6_7_8.txt
+gemini_update_2.txt
+build_full_markdown_research.py
+dump_text.py
+extract_report.py
+parse_share_gemini.py
+read_full_gemini.py
+summarize_sections.py
+test_engine.py
+test_gee.py
+
+# OS files
+.DS_Store
+Thumbs.db

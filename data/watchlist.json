@@ -1,0 +1,16 @@
+[
+  {
+    "symbol": "MWG",
+    "name": "Mobile World Investment Corporation",
+    "sector": "Sản xuất Công nghiệp & Thương mại",
+    "current_price": 74000.0,
+    "target_price": 50616.0,
+    "upside_pct": -31.6,
+    "mos_pct": 35.0,
+    "f_score": 7,
+    "big_five": "3/5",
+    "recommendation": "GIẢM TỶ TRỌNG",
+    "scenario": "⚪ Kịch bản Cơ sở (Base Case)",
+    "updated_at": "2026-10-31 19:31"
+  }
+]
